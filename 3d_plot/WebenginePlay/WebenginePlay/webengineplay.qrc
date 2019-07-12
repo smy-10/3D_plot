@@ -1,0 +1,6 @@
+<RCC>
+    <qresource prefix="/WebenginePlay">
+        <file>Resources/jquery.min.js</file>
+        <file>Resources/rotate.css</file>
+    </qresource>
+</RCC>
